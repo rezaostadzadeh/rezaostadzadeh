@@ -1,5 +1,5 @@
 ## Who am I? 
 
-<img src="<img width="880" height="192" alt="Image" src="https://github.com/user-attachments/assets/ca13e204-2981-4dd6-a9c1-3a75d5523bde" />">
+<img width="880" height="192" alt="Image" src="https://github.com/user-attachments/assets/ca13e204-2981-4dd6-a9c1-3a75d5523bde" />>
 <h2 align="center"> I am Reza </h2>
 
